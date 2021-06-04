@@ -1,0 +1,47 @@
+h1
+{
+    color:red
+}
+
+h2
+{
+    color:rgb(0, 255, 0)
+} 
+
+.Header
+{
+    border : solid;
+    background : rgb(49, 49, 49);
+    display: flex;
+    justify-content: space-around;
+}
+
+.Footer
+{
+    border : solid;
+    background : rgb(49, 49, 49);
+    display: flex;
+    justify-content: space-around;
+}
+
+.Games
+{
+    
+    display :flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.Grid
+{
+    border :solid;
+}
+
+p,h1
+{
+    text-align: center
+}
+
+h3
+{
+    color : blue
+}
